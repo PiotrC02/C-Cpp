@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1648643980 source:c:\users\student\desktop\lab5pc\zad.5.1\main.cpp
+	<iostream>
+	"multiply.cpp"
+
+1648644554 c:\users\student\desktop\lab5pc\zad.5.1\multiply.cpp
+	"multiply.h"
+
+1648644980 c:\users\student\desktop\lab5pc\zad.5.1\multiply.h
+
+1648661721 source:c:\users\piotr\downloads\zad.5.1\zad.5.1\main.cpp
+	<iostream>
+	"multiply.cpp"
+
+1648661955 c:\users\piotr\downloads\zad.5.1\zad.5.1\multiply.cpp
+	"multiply.h"
+
+1648662041 c:\users\piotr\downloads\zad.5.1\zad.5.1\multiply.h
+
+1648661721 source:c:\users\piotr\desktop\zad.5.1\main.cpp
+	<iostream>
+	"multiply.cpp"
+
+1648661955 c:\users\piotr\desktop\zad.5.1\multiply.cpp
+	"multiply.h"
+
+1648662041 c:\users\piotr\desktop\zad.5.1\multiply.h
+

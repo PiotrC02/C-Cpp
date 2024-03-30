@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1648662727 source:c:\users\piotr\downloads\zad.5.3\zad.5.3\main.cpp
+	<iostream>
+	<chrono>
+	"gcd.cpp"
+
+1648662783 c:\users\piotr\downloads\zad.5.3\zad.5.3\gcd.cpp
+	"gcd.h"
+	<chrono>
+
+1648643948 c:\users\piotr\downloads\zad.5.3\zad.5.3\gcd.h
+
+1648662727 source:c:\users\piotr\desktop\zad.5.3\zad.5.3\main.cpp
+	<iostream>
+	<chrono>
+	"gcd.cpp"
+
+1648662783 c:\users\piotr\desktop\zad.5.3\zad.5.3\gcd.cpp
+	"gcd.h"
+	<chrono>
+
+1648643948 c:\users\piotr\desktop\zad.5.3\zad.5.3\gcd.h
+

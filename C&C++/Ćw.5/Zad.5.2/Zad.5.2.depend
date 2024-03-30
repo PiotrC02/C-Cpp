@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1648647271 source:c:\users\student\desktop\lab5pc\zad.5.2\main.cpp
+	<iostream>
+	"fib.cpp"
+
+1648646602 c:\users\student\desktop\lab5pc\zad.5.2\fib.cpp
+	"fib.h"
+
+1648645848 c:\users\student\desktop\lab5pc\zad.5.2\fib.h
+
+1648662284 source:c:\users\piotr\downloads\zad.5.2\zad.5.2\main.cpp
+	<iostream>
+	"fib.cpp"
+
+1648662337 c:\users\piotr\downloads\zad.5.2\zad.5.2\fib.cpp
+	"fib.h"
+
+1648662305 c:\users\piotr\downloads\zad.5.2\zad.5.2\fib.h
+
+1648662284 source:c:\users\piotr\desktop\zad.5.2\main.cpp
+	<iostream>
+	"fib.cpp"
+
+1648662337 c:\users\piotr\desktop\zad.5.2\fib.cpp
+	"fib.h"
+
+1648662305 c:\users\piotr\desktop\zad.5.2\fib.h
+

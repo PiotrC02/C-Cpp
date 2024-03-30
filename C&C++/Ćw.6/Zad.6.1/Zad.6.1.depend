@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1649069203 source:c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.6\zad.6.1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"tabUtils.cpp"
+
+1648912422 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.6\zad.6.1\tabutils.cpp
+	<iostream>
+	"tabUtils.h"
+
+1648912460 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.6\zad.6.1\tabutils.h
+
+1649172555 source:c:\users\arley\onedrive\pulpit\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.6\zad.6.1\main.cpp
+	<iostream>
+	"tabUtils.cpp"
+
+1649171999 c:\users\arley\onedrive\pulpit\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.6\zad.6.1\tabutils.cpp
+	<iostream>
+	"tabUtils.h"
+
+1648912462 c:\users\arley\onedrive\pulpit\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.6\zad.6.1\tabutils.h
+
+1649265998 source:c:\users\piotr\desktop\Æw.6\zad.6.1\main.cpp
+	<iostream>
+	"tabUtils.cpp"
+
+1649172000 c:\users\piotr\desktop\Æw.6\zad.6.1\tabutils.cpp
+	<iostream>
+	"tabUtils.h"
+
+1648912462 c:\users\piotr\desktop\Æw.6\zad.6.1\tabutils.h
+

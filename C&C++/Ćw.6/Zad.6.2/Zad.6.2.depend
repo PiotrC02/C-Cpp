@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1648912869 source:c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.6\zad.6.2\main.cpp
+	"convertCase.cpp"
+
+1648913635 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.6\zad.6.2\convertcase.cpp
+	"convertCase.h"
+	<cctype>
+	<iostream>
+
+1648911696 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.6\zad.6.2\convertcase.h
+
+1649173394 source:c:\users\arley\onedrive\pulpit\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.6\zad.6.2\main.cpp
+	<stdio.h>
+	<ctype.h>
+	"convertCase.cpp"
+
+1649173327 c:\users\arley\onedrive\pulpit\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.6\zad.6.2\convertcase.cpp
+	<stdio.h>
+	<ctype.h>
+	"convertCase.h"
+
+1648911698 c:\users\arley\onedrive\pulpit\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.6\zad.6.2\convertcase.h
+
+1649269972 source:c:\users\piotr\desktop\Æw.6\zad.6.2\main.cpp
+	<stdio.h>
+	<ctype.h>
+	"convertCase.cpp"
+
+1649173478 c:\users\piotr\desktop\Æw.6\zad.6.2\convertcase.cpp
+	<stdio.h>
+	<ctype.h>
+	"convertCase.h"
+
+1648911698 c:\users\piotr\desktop\Æw.6\zad.6.2\convertcase.h
+

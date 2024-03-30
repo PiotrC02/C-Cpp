@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1648060554 source:c:\users\arley\onedrive\pulpit\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.4\zad.4.2\main.cpp
+	<iostream>
+	"calculator.cpp"
+
+1648060518 c:\users\arley\onedrive\pulpit\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.4\zad.4.2\calculator.cpp
+	<iostream>
+	"calculator.h"
+
+1648059198 c:\users\arley\onedrive\pulpit\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.4\zad.4.2\calculator.h
+	<limits>
+
