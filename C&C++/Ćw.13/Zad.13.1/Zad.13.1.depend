@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1654691862 source:c:\users\student\desktop\lab13\Æw.13\zad.13.1\main.c
+	<stdio.h>
+	"math_utils.c"
+
+1654691589 c:\users\student\desktop\lab13\Æw.13\zad.13.1\math_utils.c
+	"math_utils.h"
+
+1654691246 c:\users\student\desktop\lab13\Æw.13\zad.13.1\math_utils.h
+
