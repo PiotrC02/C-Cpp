@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1647194487 source:c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.2\zad.2.2\main.c
+	<stdio.h>
+	"conversion.c"
+
+1647203368 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.2\zad.2.2\conversion.c
+	<stdio.h>
+	<math.h>
+	"conversion.h"
+
+1647194487 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.2\zad.2.2\conversion.h
+
+1647194488 source:c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.3\zad.3.2\main.c
+	<stdio.h>
+	"conversion.c"
+
+1647452018 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.3\zad.3.2\conversion.c
+	<stdio.h>
+	<math.h>
+	"conversion.h"
+
+1647194488 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.3\zad.3.2\conversion.h
+

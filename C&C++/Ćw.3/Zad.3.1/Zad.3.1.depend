@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1647192407 source:c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.2\zad.2.1\main.c
+	<stdio.h>
+	"zeros.c"
+
+1647192407 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.2\zad.2.1\zeros.c
+	<stdio.h>
+	<math.h>
+	"zeros.h"
+
+1647192419 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.2\zad.2.1\zeros.h
+
+1647192408 source:c:\users\pc\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.2\zad.2.1\main.c
+	<stdio.h>
+	"zeros.c"
+
+1647436398 c:\users\pc\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.2\zad.2.1\zeros.c
+	<stdio.h>
+	<math.h>
+	"zeros.h"
+
+1647192420 c:\users\pc\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.2\zad.2.1\zeros.h
+
+1647461414 source:c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.3\zad.3.1\main.c
+	<stdio.h>
+	"zeros.c"
+
+1647461311 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.3\zad.3.1\zeros.c
+	<stdio.h>
+	<math.h>
+	"zeros.h"
+
+1647192420 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.3\zad.3.1\zeros.h
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1647450389 source:c:\users\pc\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.3\zad.3.3\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"rsa_utils.c"
+
+1647450389 c:\users\pc\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.3\zad.3.3\rsa_utils.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"rsa_utils.h"
+
+1647450296 c:\users\pc\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.3\zad.3.3\rsa_utils.h
+	<stdbool.h>
+
+1647462847 source:c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.3\zad.3.3\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	"rsa_utils.c"
+
+1647462620 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.3\zad.3.3\rsa_utils.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"rsa_utils.h"
+
+1647462406 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.3\zad.3.3\rsa_utils.h
+	<stdbool.h>
+
