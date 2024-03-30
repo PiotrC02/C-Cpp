@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1652094172 source:c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.9\zad.9.2\main.cpp
+	<cassert>
+	<cstdlib>
+	<iostream>
+	"memory_operations.h"
+
+1651774768 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.9\zad.9.2\memory_operations.h
+	<cstddef>
+	"memory_sector.h"
+
+1651774754 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.9\zad.9.2\memory_sector.h
+
+1652127162 source:c:\users\pc\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.9\zad.9.2\main.cpp
+	<cassert>
+	<cstdlib>
+	<iostream>
+	"memory_operations.cpp"
+
+1652127140 c:\users\pc\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.9\zad.9.2\memory_operations.cpp
+	"memory_operations.h"
+	<cstring>
+
+1652127140 c:\users\pc\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.9\zad.9.2\memory_operations.h
+	<cstddef>
+	"memory_sector.h"
+
+1652127140 c:\users\pc\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.9\zad.9.2\memory_sector.h
+

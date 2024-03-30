@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1654083115 source:c:\users\student\desktop\lab12\zad12.1\main.c
+	"statemachine.c"
+
+1654086068 c:\users\student\desktop\lab12\zad12.1\statemachine.c
+	<stdlib.h>
+	"statemachine.h"
+	"reader.c"
+	"state.c"
+
+1654082962 c:\users\student\desktop\lab12\zad12.1\statemachine.h
+
+1654083142 c:\users\student\desktop\lab12\zad12.1\reader.c
+	<stdio.h>
+	"reader.h"
+
+1654082962 c:\users\student\desktop\lab12\zad12.1\reader.h
+
+1654085838 c:\users\student\desktop\lab12\zad12.1\state.c
+	"state.h"
+
+1654083439 c:\users\student\desktop\lab12\zad12.1\state.h
+	<stdio.h>
+

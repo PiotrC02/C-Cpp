@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1653482343 source:c:\users\student\desktop\lab11\zad.11.1\main.c
+	<stdio.h>
+	"list.c"
+
+1653484313 c:\users\student\desktop\lab11\zad.11.1\list.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1653482140 c:\users\student\desktop\lab11\zad.11.1\list.h
+	"predicate.h"
+
+1653481763 c:\users\student\desktop\lab11\zad.11.1\predicate.h
+	<stdbool.h>
+

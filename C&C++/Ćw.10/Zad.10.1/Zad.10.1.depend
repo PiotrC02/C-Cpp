@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1652881074 source:c:\users\student\desktop\lab10\zad.10.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"median.c"
+
+1652880885 c:\users\student\desktop\lab10\zad.10.1\median.c
+	<stdio.h>
+	<stdbool.h>
+	"median.h"
+
+1652879761 c:\users\student\desktop\lab10\zad.10.1\median.h
+	<stdbool.h>
+
+1652877474 source:c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.10\zad.10.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"median.c"
+
+1652877285 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.10\zad.10.1\median.c
+	<stdio.h>
+	<stdbool.h>
+	"median.h"
+
+1652876161 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\Æw.10\zad.10.1\median.h
+	<stdbool.h>
+

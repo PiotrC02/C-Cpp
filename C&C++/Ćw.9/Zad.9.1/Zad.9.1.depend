@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652272253 source:c:\users\student\desktop\lab9\zad.9.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"triangle.c"
+
+1652268664 c:\users\student\desktop\lab9\zad.9.1\triangle.h
+	<stdbool.h>
+
+1652271894 c:\users\student\desktop\lab9\zad.9.1\triangle.c
+	<math.h>
+	"triangle.h"
+
