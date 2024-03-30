@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1646329907 source:c:\users\pc\desktop\studia\semestr 2\notatki i zadania\informatyka\kody\zad.1.2\main.c
+	<stdio.h>
+	"defs.h"
+
+1646329907 c:\users\pc\desktop\studia\semestr 2\notatki i zadania\informatyka\kody\zad.1.2\defs.h
+
+1646389188 source:c:\users\pc\desktop\studia\semestr 2\notatki i zadania\informatyka\kody\zad.1.2\defs.c
+	<stdio.h>
+	"defs.h"
+
+1646832557 source:c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\zad.1.2\main.c
+	<stdio.h>
+	"defs.c"
+
+1646832557 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\zad.1.2\defs.h
+
+1646760166 source:c:\users\piotr\desktop\zad.1.2\zad.1.2\main.c
+	<stdio.h>
+	"defs.c"
+
+1646759073 c:\users\piotr\desktop\zad.1.2\zad.1.2\defs.c
+	"defs.h"
+
+1646759048 c:\users\piotr\desktop\zad.1.2\zad.1.2\defs.h
+
+1646832557 c:\users\piotr\desktop\studia\semestr 2\notatki i zadania\informatyka\laboratorium\zad.1.2\defs.c
+	"defs.h"
+
+1646832557 source:c:\users\piotr\desktop\kody\zad.1.2\main.c
+	<stdio.h>
+	"defs.c"
+
+1646832557 c:\users\piotr\desktop\kody\zad.1.2\defs.c
+	"defs.h"
+
+1646832557 c:\users\piotr\desktop\kody\zad.1.2\defs.h
+
